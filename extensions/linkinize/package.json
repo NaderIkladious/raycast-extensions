@@ -5,8 +5,9 @@
   "title": "Linkinize",
   "description": "AI Bookmark Manager For Teams",
   "icon": "icon.png",
-  "author": "nader_ikladious",
+  "author": "linkinize.com",
   "contributors": [
+    "nader_ikladious",
     "hazaveh"
   ],
   "owner": "linkinize",

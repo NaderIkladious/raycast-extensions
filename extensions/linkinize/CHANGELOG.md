@@ -1,6 +1,6 @@
 # Linkinize Changelog
 
-## [Update Contributors] - {PR_MERGE_DATE}
+## [Update Contributors] - 2026-01-20
 
 - Updated extension metadata (author, contributors, owner)
 
